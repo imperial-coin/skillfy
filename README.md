@@ -1,3 +1,6 @@
+# Skillfy
+![logoo](https://user-images.githubusercontent.com/67524888/136831089-bc13ec72-f185-47ae-945f-92f9a1e613a4.png)
+
 # Available Scripts
 In the project directory, you can run:
 
