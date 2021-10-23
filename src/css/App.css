@@ -1,0 +1,57 @@
+.sidebar{
+  width: 250px;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.sidebar .logo{
+  padding: 20px 25px;
+}
+.sidebar .logo img{
+  height: 40px;
+}
+
+.sidebar .nav{
+  padding: 50px 35px;
+}
+.sidebar .nav li{
+  
+}
+.sidebar .nav li a{
+  align-items: center;
+  padding: 0px 20px;
+}
+.sidebar .nav li a .ico{
+  margin-right: 10px;
+}
+.sidebar .nav li a .lbl{}
+.sidebar .nav li a.on{
+  color: #862c92;
+}
+.explore{
+  /* align-content: center; */
+  align-items: column;
+  justify-content: center;
+  border-radius: 1rem;
+  width: 10%;
+  height: 20%;
+  margin: 50px;
+  background: #ffffff;
+}
+.explore a .btn{
+  width: 70%;
+  justify-content: center;
+  border-style: none;
+  border-radius: 5px;
+  color: white;
+  background: #862c92;
+  padding: 5px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10%;
+}

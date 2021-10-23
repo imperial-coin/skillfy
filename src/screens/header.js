@@ -1,16 +1,12 @@
 import React from "react";
-import logo from '../assets/logo.png';
+import Navbar from './Navbar';
 
 function Header(){
     return (
          
         <div className="header fixed">                                        
-            <h1>Header</h1>   
-		      
-
-        
-        
-
+           
+	
         </div>
     )
 }
